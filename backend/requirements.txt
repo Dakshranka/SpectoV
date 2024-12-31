@@ -1,0 +1,11 @@
+flask
+python-dateutil
+openai
+pydantic
+flask_cors
+langgraph 
+langsmith 
+langchain-community
+langchain_openai
+langchain_chroma
+langchain_postgres
